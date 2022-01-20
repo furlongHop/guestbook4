@@ -65,4 +65,5 @@ public class guestbookController {
 		
 		return "redirect:/guest/list";
 	}
+	
 }
